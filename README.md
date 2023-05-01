@@ -6,4 +6,4 @@
 
 ## Correo electrónico
 
-Puede enviarme un correo electrónico a [mi dirección de correo electrónico](mailto:isaac-rxmirez@hotmail.com).
+Puede enviarme un correo electrónico a [isaac-rxmirez@hotmail.com](mailto:isaac-rxmirez@hotmail.com).
